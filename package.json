@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Harold Zurita Simon <haroldzs1024@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
