@@ -1,0 +1,20 @@
+# Ignore node_modules folder
+node_modules/
+
+# Other optional exclusion rules
+
+# Ignore log files
+*.log
+
+# Ignore configuration files
+config.js
+
+# Ignore backup files
+*.bak
+
+# Ignore test files
+test/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
